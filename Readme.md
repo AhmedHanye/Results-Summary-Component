@@ -1,0 +1,24 @@
+# Results summary component
+
+![preview](./preview.png)
+
+## Description
+
+this component is used to display the results summary of the search results.
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
+- batch
+
+## How to use
+
+- Clone the repository
+
+```bash
+git clone
+```
+
+- Open the `index.html` file in your browser
