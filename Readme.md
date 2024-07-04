@@ -4,7 +4,7 @@
 
 ## Description
 
-this component is used to display the results summary of the search results.
+this component is used to display the results summary
 
 ## Technologies
 
