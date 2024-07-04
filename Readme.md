@@ -18,7 +18,7 @@ this component is used to display the results summary of the search results.
 - Clone the repository
 
 ```bash
-git clone
+git clone https://github.com/AhmedHanye/Results-Summary-Component.git
 ```
 
 - Open the `index.html` file in your browser
